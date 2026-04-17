@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://shubhamgulati.com/25n</loc>
+<lastmod>2026-04-17T00:51:21.210Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://shubhamgulati.com/25n/about</loc>
+<lastmod>2026-04-17T00:51:21.210Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://shubhamgulati.com/25n/work</loc>
+<lastmod>2026-04-17T00:51:21.210Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://shubhamgulati.com/25n/projects</loc>
+<lastmod>2026-04-17T00:51:21.210Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>https://shubhamgulati.com/25n/blog</loc>
+<lastmod>2026-04-17T00:51:21.210Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
+</url>
+</urlset>
